@@ -127,7 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
@@ -430,5 +429,3 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
-=======
->>>>>>> 3d1e07826c6f90afb83d9cb49aab7107e28cb55a
