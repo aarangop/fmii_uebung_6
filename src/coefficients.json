@@ -1,0 +1,72 @@
+{
+    "A": {
+        "sigma": {
+            "alpha": -3.24
+        },
+        "omega": {
+            "alpha": 43.65
+        }
+    },
+    "B": {
+        "sigma": {
+            "alpha": 1.99
+        },
+        "omega": {
+            "alpha": -95.68
+        }
+    },
+    "D": {
+        "sigma": {
+            "alpha": -0.294
+        },
+        "omega": {
+            "alpha":1.105
+        }
+    },
+    "E": {
+        "sigma": {
+            "alpha": -0.058,
+            "phygoide": -0.000276
+        },
+        "omega": {
+            "alpha": 0.095,
+            "phygoide": 13.87   
+        }
+    },
+    "G": {
+        "sigma": {
+            "phygoide": -648.12
+        }
+    },
+    "H": {
+        "sigma": {
+            "phygoide": -0.5104
+        },
+        "omega": {
+            "phygoide": 0.277
+        }
+    },
+    "J": {
+        "sigma": {
+            "phygoide": 0.0052
+        }
+    },
+    "K": {
+        "sigma":{
+            "alpha": -2.375,
+            "phygoide": -0.01125
+        },
+        "omega":{
+            "alpha": 14.240,
+            "phygoide": 0.277
+        }
+    },
+    "L": {
+        "sigma":{
+            "phygoide": -0.006352
+        },
+        "omega": {
+            "alpha": 3.459
+        }
+    }
+}

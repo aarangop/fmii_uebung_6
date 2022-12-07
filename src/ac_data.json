@@ -1,0 +1,20 @@
+{
+    "m": 1200,
+    "S": 16,
+    "l_mu": 1.5,
+    "i_y": 1.25,
+    "V": 50,
+    "rho": 1.225,
+    "n_v": -0.5,
+    "C_A_alpha": 4.6,
+    "C_AHalphaH": 4,
+    "C_mq": -4.7,
+    "C_m_alpha_punkt": -2,
+    "C_m_alpha": -0.89,
+    "k": 0.044,
+    "C_W0": 0.027,
+    "dalpha_w_nach_dalpha": 0.25,
+    "S_h_durch_S": 0.25,
+    "q_h_durch_q": 1,
+    "r_h_stern_durch_l_mu": 2.5 
+}
